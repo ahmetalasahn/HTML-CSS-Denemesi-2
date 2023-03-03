@@ -1,0 +1,22 @@
+.text-center
+{
+    text-align: center;
+}
+.text-color
+{
+    color: white;
+    letter-spacing: 1px;
+}
+.font-italic
+{
+    font-style: italic;
+    opacity: 0.7;
+}
+.padding
+{
+    padding: 15px;
+}
+.margint
+{
+    margin-top: 15px;
+}

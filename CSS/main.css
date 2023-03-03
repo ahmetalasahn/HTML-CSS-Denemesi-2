@@ -1,0 +1,58 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url(../IMAGES/i4.jpg);
+    align-items: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.div1
+{
+    width: 400px;
+    height: 500px;
+    border: 1px solid darkolivegreen;
+    border-radius: 50px;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 750px;
+    background-color: darkolivegreen;
+}
+.circle
+{
+    border-radius: 52%;
+}
+.img1
+{
+    margin-top: 15%;
+}
+.div2
+{
+    margin-top: 25px;
+}
+.card
+{
+    opacity: 1;
+}
+a
+{
+    padding: 15px;
+    text-decoration: none;
+    color: black;
+    border-radius: 15px;
+    border: 1px solid white;
+    background-color: white;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.div3
+{
+    padding: 25px;
+}
+.a1:hover
+{
+    background-color: darkolivegreen;
+    color: white;
+}
